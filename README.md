@@ -1,4 +1,4 @@
-# About Me
+# Auuja Dahale
 
 Computer Engineering student passionate about building, learning, and solving problems through technology.
 
